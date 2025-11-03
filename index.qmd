@@ -1,5 +1,5 @@
 ---
-title: "Practice for the introduction to SPSS"
+title: "Practice - Introduction to SPSS (BMHS Year III)"
 author:
   - name: Tengku Muhammad Hanis Bin Tengku Mokhtar, PhD
     affiliations:
@@ -8,6 +8,7 @@ author:
           Faculty of Medicine, \
           Universiti Sultan Zainal Abidin
     url: http://tengkuhanis.netlify.app/
+date: 03-November-2025
 format: 
   html:
     toc: true
